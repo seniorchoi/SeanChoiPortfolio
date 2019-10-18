@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SeanChoiPortfolio/static/css/main.b100e6da.chunk.css",
+    "main.js": "/SeanChoiPortfolio/static/js/main.c8323547.chunk.js",
+    "main.js.map": "/SeanChoiPortfolio/static/js/main.c8323547.chunk.js.map",
+    "runtime-main.js": "/SeanChoiPortfolio/static/js/runtime-main.d87e7e5d.js",
+    "runtime-main.js.map": "/SeanChoiPortfolio/static/js/runtime-main.d87e7e5d.js.map",
+    "static/js/2.92742d31.chunk.js": "/SeanChoiPortfolio/static/js/2.92742d31.chunk.js",
+    "static/js/2.92742d31.chunk.js.map": "/SeanChoiPortfolio/static/js/2.92742d31.chunk.js.map",
+    "index.html": "/SeanChoiPortfolio/index.html",
+    "precache-manifest.b26db522047756e46cd8950f6d01cffa.js": "/SeanChoiPortfolio/precache-manifest.b26db522047756e46cd8950f6d01cffa.js",
+    "service-worker.js": "/SeanChoiPortfolio/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/SeanChoiPortfolio/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/SeanChoiPortfolio/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d87e7e5d.js",
+    "static/js/2.92742d31.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.c8323547.chunk.js"
+  ]
+}
